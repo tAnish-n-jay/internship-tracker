@@ -1,0 +1,25 @@
+{
+  "telegram": {
+    "bot_token": "8611757033:AAHPJaMZQMRHoCrd_qwbgkaAKVPCj-3_tBM",
+    "chat_id": "8140011148" 
+  },
+  "sources": [
+    {
+      "name": "Google STEP Internship",
+      "url": "https://buildyourfuture.withgoogle.com/programs/step/",
+      "open_keywords": ["applications are open", "apply now", "now accepting applications"],
+      "closed_keywords": ["applications are closed", "check back", "no longer accepting"]
+    },
+    {
+      "name": "Internshala - Data Science internships",
+      "url": "https://internshala.com/internships/data-science-internship/",
+      "open_keywords": [],
+      "closed_keywords": [],
+      "mode": "count_listings"
+    },
+    {
+        "name": "Indeed Internship",
+        "url": ""
+    }
+  ]
+}
